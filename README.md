@@ -13,7 +13,7 @@ O Microsoft Copilot é um exemplo fascinante de como a IA Generativa pode revolu
 <p>
 
 <div align="center">
- <img src="inserir prompt text" width="600" />
+ <img src="https://github.com/LohSilva/Lab_IAGenerative/blob/main/outputs/prompt_text.png" width="600" />
 </div>
 
 </p>
@@ -23,7 +23,7 @@ O Microsoft Copilot é um exemplo fascinante de como a IA Generativa pode revolu
 <p>
 
 <div align="center">
- <img src="inserir prompt image" width="600" />
+ <img src="https://github.com/LohSilva/Lab_IAGenerative/blob/main/outputs/prompt_image.png" width="600" />
 </div>
 
 </p>
@@ -32,8 +32,8 @@ O Microsoft Copilot é um exemplo fascinante de como a IA Generativa pode revolu
 
 <p>
 
-<div align="center">h
- <img src="inserir prompt codigo" width="600" />
+<div align="center">
+ <img src="https://github.com/LohSilva/Lab_IAGenerative/blob/main/outputs/prompt_codigo.png" width="600" />
 </div>
 
 </p>
@@ -49,7 +49,7 @@ O Microsoft Copilot é um exemplo fascinante de como a IA Generativa pode revolu
 <p>
 
 <div align="center">
- <img src="inserir prompt bonus" width="600" />
+ <img src="https://github.com/LohSilva/Lab_IAGenerative/blob/main/outputs/bonus.png" width="600" />
 </div>
 
 </p>
